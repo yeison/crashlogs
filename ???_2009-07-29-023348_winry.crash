@@ -1,0 +1,28 @@
+Process:         ??? [-1]
+Path:            ???
+Identifier:      ???
+Version:         ??? (???)
+Code Type:       00000000 (Translated)
+Parent Process:  ??? [Unknown]
+
+Date/Time:       2009-07-29 02:33:48.540 -0400
+OS Version:      Mac OS X 10.5.7 (9J61)
+Report Version:  6
+Anonymous UUID:  A3283510-E532-40DC-A453-92974D925BDC
+
+Exception Type:  EXC_BAD_ACCESS (SIGABRT)
+Exception Codes: KERN_PROTECTION_FAILURE at 0x0000000000000001
+Crashed Thread:  Unknown
+
+Backtrace not available
+
+Unknown thread crashed with X86 Thread State (32-bit):
+  eax: 0x00000000  ebx: 0x955d59fc  ecx: 0xa0715d64  edx: 0xa0712460
+  edi: 0x00000015  esi: 0x00000001  ebp: 0xbfffef98  esp: 0xbfffef60
+   ss: 0x0000001f  efl: 0x00010202  eip: 0x955d5a2d   cs: 0x00000017
+   ds: 0x0000001f   es: 0x0000001f   fs: 0x00000000   gs: 0x00000037
+  cr2: 0x00000000
+
+Binary images description not available
+
+
